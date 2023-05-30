@@ -1,4 +1,4 @@
---- COLLEGE DATABASE MANAGEMENT SYSTEM ---
+COLLEGE DATABASE MANAGEMENT SYSTEM
 
 PROBLEM STATEMENT:
    Getting the details of student who are studying in college and staffs of the college and
