@@ -1,5 +1,7 @@
 COLLEGE DATABASE MANAGEMENT SYSTEM
 
+![download](https://github.com/Yukthish/College-Database-Management-System/assets/95063800/098e7fe8-3706-4831-b3dc-9f48fb19bd4c)
+
 PROBLEM STATEMENT:
    Getting the details of student who are studying in college and staffs of the college and
 storing these details in file which will create a database of details of students and
